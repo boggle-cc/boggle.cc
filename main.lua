@@ -1,0 +1,37 @@
+   -- destruction sim
+    if game.PlaceId == 2248408710 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/destructionsim.lua'),true))()
+    -- millionaire tycoon
+    elseif game.PlaceId == 6677985923 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/millionaire.lua'),true))()
+    -- heist tycoon
+    elseif game.PlaceId == 11103424163 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/heist.lua'),true))()
+    -- Diddy Plinko
+    elseif game.PlaceId == 18939066871 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/diddyplinko.lua'),true))()
+    -- Trench War
+    elseif game.PlaceId == 6654918151 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/trenchwar.lua'),true))()
+    -- Swat Simulator
+    elseif game.PlaceId == 2906554815 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/swat%20simulator.lua'),true))()
+    -- Red Light Green Light
+    elseif game.PlaceId == 7540891731 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/squidgame.lua'),true))()
+    -- Money Grab Simulator
+    elseif game.PlaceId == 14157644155 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/moneygrab.lua'),true))()
+    -- Boys ONLY NO GIRLS ALLOWED
+    elseif game.PlaceId == 10482667287 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/boysonly.lua'),true))()
+    -- Pressure Wash for Brainrots
+    elseif game.PlaceId == 126349562582764 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/pressurewash.lua'),true))()
+    -- Counterblox
+    elseif game.PlaceId == 301549746 then
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/scripts/counterblox.lua'),true))()
+    -- Universal
+    else
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/badardfday/boggle.cc/refs/heads/main/universal.lua'),true))()
+    end
